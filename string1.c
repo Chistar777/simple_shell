@@ -85,3 +85,5 @@ int _putchar(char c)
 		buf[i++] = c;
 	return (1);
 }
+
+
