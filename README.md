@@ -318,6 +318,9 @@ $
                                                                                                                               
 <h2>Authors</h2>                                                                                                              
                                                                                                                               
-👤 Martin Agoha, <martin4dtruth@gmail.com>
+👤 Chidera Chukwuma, <chiderastar777@gmail.com>
 
-👤 Adeeyo Solomon, <adeeyo69@gmail.com>
+👤 Boluwatife Rebecca Dannon, <boluwatifedannon16@gmail.com>
+
+
+
