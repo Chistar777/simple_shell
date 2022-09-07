@@ -16,7 +16,3 @@ int bfree(void **ptr)
 	}
 	return (0);
 }
-
-
-
-
